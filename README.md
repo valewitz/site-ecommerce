@@ -8,7 +8,7 @@ __________________________
 
 Exemple 2 : 1&1 boutique en ligne
 
-  *   les plus
+*   les plus
 
 	-	vendre ses produits et avoir la possibilité de comparer ses prix sur le marketplace
 	-	communiquer avec les réseaux sociaux et envoyer des newsletters
@@ -19,7 +19,7 @@ Exemple 2 : 1&1 boutique en ligne
 	-	mise à jour du site et fonctionnalités supplémentaires régulières
 	-	stockage des données dans deux datacenters de zones différentes
 
-	*   types d'offres
+*   types d'offres
 
 	-	4 types allant de 19,99 à 39,99 par mois
 	-	fonctionnalités supplémentaires selon l'offre choisie

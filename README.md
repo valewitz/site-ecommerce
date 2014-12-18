@@ -26,3 +26,52 @@ Exemple 2 : 1&1 boutique en ligne
 	-	4 types allant de 19,99 à 39,99 par mois
 	-	fonctionnalités supplémentaires selon l'offre choisie
 __________________
+
+
+WIZISHOP
+
+Fonctionnalité:
+-WiziShop vous accompagne vers la réussite : hébergement, interface de gestion (configuration, ajout de produit, gestion des ventes et des clients), support et accompagnement !
+-un design personnalisé.
+-En plus de vous offrir un site ecommerce consultable sur ordinateur et tablettes, WiziShop vous met à disposition une version optimisée de votre site pour les consultations sur mobiles. 
+-le référencement naturel : URL-rewriting, Robot.txt, SiteMap et personnalisation possible des balises, Title et métas données. Votre site aura ainsi plus de chances d’être dans les premiers résultats sur Google ! 
+-social commerce: favorise le bouche a oreille
+-emailing&sms-mailing
+-outils marketing: ventes flash,point de fidélité etc
+-catalogue fiche produit
+-gestion de contenu
+-gestion des commandes
+-livraison et logistique
+-paiement rapide et facile
+-permet la configuration et gestion de son propre code.
+-hébergement 
+-aide et accompagnement
+
+tarifs:
+-commission pouvant aller de 39€HT et à 1,2,3% pour des chiffre d'affaire de 1500€ à 80000€.
+-300 fonctionnalités pour augmenter les ventes
+- personnalisation du desgin à partir de 1500€ et migration bvers une autre solution ecommerce pour 999€.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

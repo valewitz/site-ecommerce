@@ -31,6 +31,7 @@ __________________
 WIZISHOP
 
 Fonctionnalité:
+
 -WiziShop vous accompagne vers la réussite : hébergement, interface de gestion (configuration, ajout de produit, gestion des ventes et des clients), support et accompagnement !
 
 -un design personnalisé.
@@ -50,16 +51,25 @@ Fonctionnalité:
 -gestion de contenu
 
 -gestion des commandes
+
 -livraison et logistique
+
 -paiement rapide et facile
+
 -permet la configuration et gestion de son propre code.
+
 -hébergement 
+
 -aide et accompagnement
 
 
+
 tarifs:
+
 -commission pouvant aller de 39€HT et à 1,2,3% pour des chiffre d'affaire de 1500€ à 80000€.
+
 -300 fonctionnalités pour augmenter les ventes
+
 - personnalisation du desgin à partir de 1500€ et migration bvers une autre solution ecommerce pour 999€.
 
 

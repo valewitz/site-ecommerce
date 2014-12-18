@@ -32,7 +32,9 @@ WIZISHOP
 
 Fonctionnalité:
 -WiziShop vous accompagne vers la réussite : hébergement, interface de gestion (configuration, ajout de produit, gestion des ventes et des clients), support et accompagnement !
+
 -un design personnalisé.
+
 -En plus de vous offrir un site ecommerce consultable sur ordinateur et tablettes, WiziShop vous met à disposition une version optimisée de votre site pour les consultations sur mobiles. 
 -le référencement naturel : URL-rewriting, Robot.txt, SiteMap et personnalisation possible des balises, Title et métas données. Votre site aura ainsi plus de chances d’être dans les premiers résultats sur Google ! 
 -social commerce: favorise le bouche a oreille

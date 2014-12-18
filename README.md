@@ -25,3 +25,4 @@ Exemple 2 : 1&1 boutique en ligne
 
 	-	4 types allant de 19,99 à 39,99 par mois
 	-	fonctionnalités supplémentaires selon l'offre choisie
+__________________

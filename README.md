@@ -25,8 +25,8 @@ Exemple 2 : 1&1 boutique en ligne
 
 	-	4 types allant de 19,99 à 39,99 par mois
 	-	fonctionnalités supplémentaires selon l'offre choisie
-__________________
 
+____________________
 
 WIZISHOP
 
@@ -72,9 +72,17 @@ tarifs:
 
 - personnalisation du desgin à partir de 1500€ et migration bvers une autre solution ecommerce pour 999€.
 
+________________
 
+* Critères :
+	-	abonnement
+	-	ergonomie client
+	-	sauvegarde
+	-	assurances
+	-	assistance
+	-	export
 
-
+________________
 
 
 

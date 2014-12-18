@@ -1,4 +1,3 @@
-site-ecommerce
+Etude comparative site e-commerce
 ==============
 
-Exercice cours site commerce
